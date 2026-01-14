@@ -425,7 +425,7 @@ export const INITIAL_VOCAB: Vocabulary[] = [
   { id: 'l9-23', kanji: "ひらがな", reading: "ひらがな", meaning: "chữ Hiragana", category: 'general', lesson: 9 },
   { id: 'l9-24', kanji: "かたかな", reading: "かたかな", meaning: "chữ Katakana", category: 'general', lesson: 9 },
   { id: 'l9-25', kanji: "ローマ字", reading: "ろーまじ", meaning: "chữ La Mã", category: 'kanji', lesson: 9 },
-  { id: 'l9-26', kanji: "細かい お金", reading: "こまかいおかね", meaning: "tiền lẻ", category: 'kanji', lesson: 9 },
+  //{ id: 'l9-26', kanji: "細かい お金", reading: "こまかいおかね", meaning: "tiền lẻ", category: 'kanji', lesson: 9 },
 
   // --- BÀI 10 ---
   { id: 'l10-1', kanji: "あります", reading: "あります", meaning: "có (dùng cho đồ vật, cây cối)", category: 'verb', lesson: 10 },
